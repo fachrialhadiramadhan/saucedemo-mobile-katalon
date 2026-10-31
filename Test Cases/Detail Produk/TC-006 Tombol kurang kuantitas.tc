@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Negative&#xd;
+Priority: Critical</description>
+   <name>TC-006 Tombol kurang kuantitas</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83ba3073-0436-4eb8-9299-c1a9fba68b59</testCaseGuid>
+</TestCaseEntity>

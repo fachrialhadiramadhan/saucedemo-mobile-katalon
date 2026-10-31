@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Positive&#xd;
+Priority: High</description>
+   <name>TC-008 Menambah produk sama ke keranjang</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c648d60-3959-4fe3-906a-be6083cc7c2f</testCaseGuid>
+</TestCaseEntity>

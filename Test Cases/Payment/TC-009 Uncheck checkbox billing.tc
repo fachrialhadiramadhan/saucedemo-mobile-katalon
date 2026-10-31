@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Negative&#xd;
+Priority: High&#xd;
+</description>
+   <name>TC-009 Uncheck checkbox billing</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f62af677-5879-4298-98a4-6a4981d695ac</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Boundary (BUG)&#xd;
+Priority: High&#xd;
+Expected: Validasi input zipcode user&#xd;
+Actual: Tidak ada validasi input zipcode</description>
+   <name>TC-007 Zip Code format tidak valid (BUG)</name>
+   <tag>BUG</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd86b2ef-47df-4862-b90b-f7846d223ddd</testCaseGuid>
+</TestCaseEntity>

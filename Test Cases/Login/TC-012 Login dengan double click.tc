@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Negative&#xd;
+Priority: Medium</description>
+   <name>TC-012 Login dengan double click</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fachri Alhadi Ramadhan</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>70a55965-55a5-45db-90a2-e18b021e9225</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a0a7804-5811-45a0-8a07-3bac75ba3325</testCaseGuid>
+</TestCaseEntity>

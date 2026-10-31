@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Untuk start aplication (belum ke install di hp)</description>
+      <initValue>'C:\\Users\\ALDI\\Downloads\\sauce-demo.apk'</initValue>
+      <name>apkPath</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Untuk start existing aplication</description>
+      <initValue>'com.saucelabs.mydemoapp.android'</initValue>
+      <name>apkPackage</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

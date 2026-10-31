@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type: Positive&#xd;
+Priority: Critical&#xd;
+</description>
+   <name>TC-001 Layar pembayaran tampil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7687fbdc-03e2-4d31-abf6-ea13d45291ae</testCaseGuid>
+</TestCaseEntity>
